@@ -219,3 +219,20 @@ height: 90px;
 line-height: 96px;
 border-radius: 50px;
 }
+/* .bg{
+    background-image:url(../img/back1.jpg) ;
+    height: 100%;
+} */
+
+html { 
+    background: url(img/annie-spratt-hX_hf2lPpUU-unsplash.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+  }
+/* .item1{
+    background-image: url(img/img5.jpg);
+    opacity: 0.55;
+} */
